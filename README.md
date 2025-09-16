@@ -1,5 +1,5 @@
 # Sahithi-portfolio
-🔐 Sahithi Gudigopuram — Cybersecurity Analyst
+🔐 Sahithi Gudigopuram — Cyber & information security Analyst
 
 👋 Hi, I’m Sahithi — passionate about securing digital ecosystems through threat detection, cloud hardening, and incident response.
 
